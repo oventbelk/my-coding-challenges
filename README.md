@@ -25,3 +25,8 @@ Feel free to contribute by submitting your solutions.
 
 ## License
 This project is licensed under the MIT License.
+
+## Future Plans
+- Add more challenges
+- Improve solution efficiency
+- Include tests for validation
